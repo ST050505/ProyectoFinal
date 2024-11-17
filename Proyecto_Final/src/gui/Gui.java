@@ -115,7 +115,7 @@ public class Gui {
             }
         });
 
-        frame.setVisible(true); // Mostrar la ventana
+        frame.setVisible(true);
     }
 
     // Método para crear opciones estilizadas (sin fondo)
