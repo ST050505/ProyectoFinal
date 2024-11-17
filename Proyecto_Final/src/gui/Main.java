@@ -1,5 +1,7 @@
 package gui;
 
+// Sebastian's workplace
+
 import java.awt.EventQueue;
 
 public class Main {
