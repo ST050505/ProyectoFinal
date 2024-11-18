@@ -158,5 +158,5 @@ public class Gui {
         panel.add(new JLabel(tabContent));
         tabbedPane.addTab(tabTitle, panel);
         tabbedPane.setSelectedIndex(tabbedPane.getTabCount() - 1); // Seleccionar la nueva pestaña
-    }
+    } //Prueba Karla's branch
 }
